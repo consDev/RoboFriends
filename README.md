@@ -1,4 +1,4 @@
-#How To Use This Project
+##How To Use This Project
 
 1. "git clone [project's GitHub URL]"
 2. "npm install"
